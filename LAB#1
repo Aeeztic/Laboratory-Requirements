@@ -1,0 +1,4 @@
+import pyfiglet
+
+print(pyfiglet.figlet_format( text ="AAHRON", justify = "center", font = "starwars"))
+print(pyfiglet.figlet_format( text ="JMZ", justify = "center", font = "isometric3"))
